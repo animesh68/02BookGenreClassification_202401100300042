@@ -32,3 +32,17 @@ book_length	Length of the book (pages or words)
 num_keywords	Number of descriptive keywords
 
 genre	Target genre label
+
+📊 Output
+
+Classification Report: Precision, recall, F1-score
+
+Genre Distribution: Count of each genre in dataset
+
+Feature Importance: How much each feature influences the model
+
+Confusion Matrix: Comparison of actual vs predicted genres
+
+👨‍💻 Author
+
+Developed by [Animesh] – happy to collaborate and enhance this further!
