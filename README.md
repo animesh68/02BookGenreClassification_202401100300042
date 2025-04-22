@@ -18,3 +18,14 @@ Feature importance
 Confusion matrix
 
 Generates a concise classification report
+
+📁 Dataset
+
+The input CSV file (book_genres.csv) must contain the following columns:
+
+
+Column Name	Description
+author_popularity	Numerical score indicating author fame
+book_length	Length of the book (pages or words)
+num_keywords	Number of descriptive keywords
+genre	Target genre label
